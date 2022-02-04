@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+.form{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+}
+.submit{
+    margin-top: 20px;
+    align-self: flex-end;
+}
+.input-cell{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40rem;
+    margin-top: 10px;
+}
+
+.label{
+    min-width: 150px;
+}
